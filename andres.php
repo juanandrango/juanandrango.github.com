@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Juan Andres Andrango: GitHub Website</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+
+<h1>Juan Andres Andrango</h1>
+
+<hr/>
+
+<p> This page is under construction </p>
+<p> This is a test change</p>
+<p> This should only appear in the branched testBootStrap</p>
+    <script src="js/scale.fix.js"></script>
+    
+  </body>
+</html>
